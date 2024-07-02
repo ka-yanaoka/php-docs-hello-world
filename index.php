@@ -1,3 +1,3 @@
 <?php
-
-echo "1";
+$filename = '/mnt/filestream.txt';
+echo "2";
