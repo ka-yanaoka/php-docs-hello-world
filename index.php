@@ -3,4 +3,4 @@ $filename = '/mnt/filestream.txt';
 if(!file_exists($filename)){
     touch($filename);
 }
-echo "2";
+echo "3";
